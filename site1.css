@@ -1,0 +1,65 @@
+.navbar{
+    background-color: black;
+    color: white;
+}
+.nav{
+    list-style: none;
+    display: inline-block;
+    width: 70%;
+    text-align: right;
+}
+.nav .navitem{
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+.logo{
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+section{
+    padding: 50px;
+}
+.table{
+    width: 100%;
+
+}
+.t1c{
+    width: 25%;
+}
+.box{
+    width: 80%;
+    text-align: center;
+    border: solid black 2px;
+    padding: 10px;
+    border-radius: 8px;
+}
+.box img{
+    width:80% ;
+}
+.box h2{
+    margin-bottom: 20px;
+}
+.box p{
+    color: gray;
+}
+.box button{
+    background-color: black;
+    color: white;
+    padding: 6px;
+}
+.t1c .link ul li{
+    color: white;
+}
+.t1c .link h2{
+    color: white;
+}
+footer{
+    background-color: black;
+    padding: 100px;
+}

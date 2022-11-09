@@ -1,0 +1,67 @@
+
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.navbar{
+    background-color: blueviolet;
+    color: aliceblue;
+}
+.navitem{
+    display: inline-block;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+   
+
+}
+.nav{
+    list-style: none;
+text-align: center;
+width: 70%;
+display: inline-block;
+
+
+}
+
+.logo{
+display: inline-block;
+
+}
+section{
+    padding: 50px;
+
+}
+.table{
+    width: 100%;
+}
+.tc1{
+    width: 25%;
+
+
+}
+.box{
+    
+    text-align: center;
+    border: solid black 2px;
+    padding: 10px;
+    text-align: center;
+  
+   
+}
+.box img{
+    width: 80%;
+
+}
+.box p{
+    color: gray;
+}
+.box button{
+    background-color: black;
+    color: white;
+    padding: 6px;
+}
+
+
+

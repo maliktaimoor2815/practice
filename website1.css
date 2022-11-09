@@ -1,0 +1,82 @@
+*{
+    padding: 0%;
+    margin: 0%;
+
+}
+.navbar{
+
+    background-color:rgb(6, 1, 12);
+   color: aliceblue;
+   
+}
+.nav{
+    list-style: none;
+    text-align: left;
+   
+    width: 70%;
+
+}
+.navitem{
+    
+    display: inline-block;
+    margin: 5px;
+
+}
+.logo{
+    display: inline-block;
+    text-align: center;
+
+width: 20%;
+
+
+}
+.nav .navitem{
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+
+section{
+    width: 50px;
+}
+.table{
+    width: 100%;
+
+}
+.tc1{
+    width: 25%;
+    text-align: center;
+}
+.box{
+    border: solid black 2px;
+    width: 80%;
+    padding: 10px;
+   text-align: center;
+    border-radius: 8px;
+    margin:25px;
+
+}
+.box img{
+    width:80% ;
+}
+.box h2{
+    margin-bottom: 20px;
+}
+.box p{
+    color: gray;
+}
+
+footer{
+    background-color: black;
+    padding: 100px;
+}
+li{
+    color: wheat;
+list-style: none;
+display: inline-block;
+margin : 5px; ;
+
+}
+h2{
+    color: white;
+}
